@@ -1,1 +1,1 @@
-# 167-deep-lerning-fall24
+# 167-deep-learning-fall24
