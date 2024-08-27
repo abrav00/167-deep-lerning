@@ -1,1 +1,1 @@
-# 167-deep-lerning
+# 167-deep-lerning-fall24
