@@ -69,7 +69,7 @@ while True:
 
     # Display the label on the frame
     cv2.putText(frame, f"{label} ({confidence:.2f})", (10, 30),
-                cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 2)
+                cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
 
     # Display the frame with annotations
     cv2.imshow('Traffic Sign Recognition', frame)
